@@ -9,7 +9,7 @@ Please make sure your environment includes:
 
 ```
 python (tested on 3.7.4)
-pytorch (tested on 1.2.1)
+pytorch (tested on 1.7.0)
 ```
 
 Then, run the command:
